@@ -1,0 +1,1 @@
+C:\Users\Nakamura\projects\rust-tutorial\catsay\target\debug\integration_test-e145f854937ca088.exe: C:\Users\Nakamura\projects\rust-tutorial\catsay\src\main.rs C:\Users\Nakamura\projects\rust-tutorial\catsay\tests\integration_test.rs

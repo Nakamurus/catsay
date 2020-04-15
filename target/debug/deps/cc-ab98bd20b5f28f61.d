@@ -1,0 +1,12 @@
+C:\Users\Nakamura\projects\rust-tutorial\catsay\target\debug\deps\cc-ab98bd20b5f28f61.rmeta: C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\lib.rs C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\registry.rs C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\winapi.rs C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\com.rs C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\setup_config.rs C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\windows_registry.rs
+
+C:\Users\Nakamura\projects\rust-tutorial\catsay\target\debug\deps\libcc-ab98bd20b5f28f61.rlib: C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\lib.rs C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\registry.rs C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\winapi.rs C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\com.rs C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\setup_config.rs C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\windows_registry.rs
+
+C:\Users\Nakamura\projects\rust-tutorial\catsay\target\debug\deps\cc-ab98bd20b5f28f61.d: C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\lib.rs C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\registry.rs C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\winapi.rs C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\com.rs C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\setup_config.rs C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\windows_registry.rs
+
+C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\lib.rs:
+C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\registry.rs:
+C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\winapi.rs:
+C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\com.rs:
+C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\setup_config.rs:
+C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.50\src\windows_registry.rs:

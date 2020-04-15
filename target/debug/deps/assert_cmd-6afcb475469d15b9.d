@@ -1,0 +1,11 @@
+C:\Users\Nakamura\projects\rust-tutorial\catsay\target\debug\deps\assert_cmd-6afcb475469d15b9.rmeta: C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\assert_cmd-0.10.2\src\lib.rs C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\assert_cmd-0.10.2\src\assert.rs C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\assert_cmd-0.10.2\src\cargo.rs C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\assert_cmd-0.10.2\src\cmd.rs C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\assert_cmd-0.10.2\src\stdin.rs
+
+C:\Users\Nakamura\projects\rust-tutorial\catsay\target\debug\deps\libassert_cmd-6afcb475469d15b9.rlib: C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\assert_cmd-0.10.2\src\lib.rs C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\assert_cmd-0.10.2\src\assert.rs C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\assert_cmd-0.10.2\src\cargo.rs C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\assert_cmd-0.10.2\src\cmd.rs C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\assert_cmd-0.10.2\src\stdin.rs
+
+C:\Users\Nakamura\projects\rust-tutorial\catsay\target\debug\deps\assert_cmd-6afcb475469d15b9.d: C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\assert_cmd-0.10.2\src\lib.rs C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\assert_cmd-0.10.2\src\assert.rs C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\assert_cmd-0.10.2\src\cargo.rs C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\assert_cmd-0.10.2\src\cmd.rs C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\assert_cmd-0.10.2\src\stdin.rs
+
+C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\assert_cmd-0.10.2\src\lib.rs:
+C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\assert_cmd-0.10.2\src\assert.rs:
+C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\assert_cmd-0.10.2\src\cargo.rs:
+C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\assert_cmd-0.10.2\src\cmd.rs:
+C:\Users\Nakamura\.cargo\registry\src\github.com-1ecc6299db9ec823\assert_cmd-0.10.2\src\stdin.rs:
